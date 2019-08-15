@@ -1,4 +1,4 @@
-const key = "528"
+const key = "102"
 
 function unlock () {
   const f1 = document.getElementById('f1').value
